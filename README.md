@@ -1,9 +1,9 @@
 # Planyr
-JS for frontend/native languages for backend
+Javafx for GUI and backend java using eclipse/intellij
 
 Write backend with Java.
 
-Develop as a webapp initially before trying to deploy it on any mobile platform.
+Develop a java program initially before converting it to .exe/.app and maybe to any mobile platform
 
 Step 1: Make a simple calendar app pushing reminders to an RSS feed.
 
